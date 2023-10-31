@@ -52,6 +52,7 @@ function App() {
           <h1 className="text-3xl font-bold text-center mb-6 mt-2">
             Handle Your To-Do List
           </h1>
+
           <div className="mb-4">
             <TodoForm />
           </div>

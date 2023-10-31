@@ -1,6 +1,6 @@
-# Password Generator App
+# To-Do List Web Application
 
-![App Screenshot](screenshot.png)
+![App Screenshot](ss.png)
 
 ## Description
 
@@ -20,6 +20,13 @@ This is a web-based to-do list application built with React, designed to help yo
 - React
 - JavaScript
 - Tailwind CSS
+
+## How to Use:
+- Clone the repository to your local machine.
+- Run npm install to install the necessary dependencies.
+- Start the development server with npm start.
+- Open the application in your web browser to start managing your to-do list.
+- Stay organized and manage your tasks with ease using this simple and intuitive to-do list application.
 
 
 ## Installation
